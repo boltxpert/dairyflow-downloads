@@ -1,3 +1,5 @@
+![DairyFlow - Milk Collection and Dairy Business Management Software](assets/dairyflow-banner.png)
+
 <div align="center">
 
 # DairyFlow — Milk Collection & Dairy Business Management Software

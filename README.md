@@ -50,16 +50,16 @@ Hide supplier/customer phone numbers, financial details and private credentials.
 
 ## Download & get started
 
-**Latest published release: 1.0.8 · Build 8**
+**Latest published release: 1.1.0 · Build 10**
 
 | Platform | Host | Client |
 | --- | --- | --- |
-| Android | [Download Host APK](https://github.com/boltxpert/dairyflow-downloads/releases/download/v1.0.8/DairyFlow-Host-1.0.8.apk) | [Download Client APK](https://github.com/boltxpert/dairyflow-downloads/releases/download/v1.0.8/DairyFlow-Client-1.0.8.apk) |
-| Windows x64 | [Download Host Setup](https://github.com/boltxpert/dairyflow-downloads/releases/download/v1.0.8/DairyFlow-Host-Setup-1.0.8.exe) | [Download Client Setup](https://github.com/boltxpert/dairyflow-downloads/releases/download/v1.0.8/DairyFlow-Client-Setup-1.0.8.exe) |
+| Android | [Download Host APK](https://github.com/boltxpert/dairyflow-downloads/releases/download/v1.1.0/DairyFlow-Host-1.1.0.apk) | [Download Client APK](https://github.com/boltxpert/dairyflow-downloads/releases/download/v1.1.0/DairyFlow-Client-1.1.0.apk) |
+| Windows x64 | [Download Host Setup](https://github.com/boltxpert/dairyflow-downloads/releases/download/v1.1.0/DairyFlow-Host-Setup-1.1.0.exe) | [Download Client Setup](https://github.com/boltxpert/dairyflow-downloads/releases/download/v1.1.0/DairyFlow-Client-Setup-1.1.0.exe) |
 
 Contact us for licensing and business setup, install the appropriate edition, then configure authorized users and device connections.
 
-[Read installation and release details](https://github.com/boltxpert/dairyflow-downloads/releases/latest). The 1.0.8 release notes identify Android APKs as production-signed; Windows installers are not code-signed and may trigger SmartScreen. Verify the source rather than bypassing security warnings blindly.
+[Read installation and release details](https://github.com/boltxpert/dairyflow-downloads/releases/latest). The 1.1.0 release notes identify Android APKs as production-signed; Windows installers are not code-signed and may trigger SmartScreen. Verify the source rather than bypassing security warnings blindly.
 
 ## Licensing, terms & responsible use
 
